@@ -23,3 +23,12 @@ It is also possible to build SDL from source. But there seems to be additional c
 ./build.sh
 ```
 
+## Run
+
+Simply run a test program having gfx interface or terminal session with X11 forwarding.
+
+```
+./programMovingTexture
+```
+
+
